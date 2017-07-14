@@ -1,0 +1,16 @@
+c:\users\boney\documents\visual studio 2010\Projects\tcpserver\tcpserver\obj\x86\Debug\tcpserver.Properties.Resources.resources
+c:\users\boney\documents\visual studio 2010\Projects\tcpserver\tcpserver\obj\x86\Debug\tcpserver.csproj.GenerateResource.Cache
+c:\users\boney\documents\visual studio 2010\Projects\tcpserver\tcpserver\bin\Debug\tcpserver.exe
+c:\users\boney\documents\visual studio 2010\Projects\tcpserver\tcpserver\bin\Debug\tcpserver.pdb
+c:\users\boney\documents\visual studio 2010\Projects\tcpserver\tcpserver\obj\x86\Debug\tcpserver.exe
+c:\users\boney\documents\visual studio 2010\Projects\tcpserver\tcpserver\obj\x86\Debug\tcpserver.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\tcpserver\tcpserver\obj\x86\Debug\tcpserver.csprojResolveAssemblyReference.cache
+C:\Users\boney\Documents\Visual Studio 2010\Projects\tcpserver\tcpserver\obj\x86\Debug\tcpserver.logserver.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\obj\x86\Debug\tcpserver.exe
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\obj\x86\Debug\tcpserver.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\bin\Debug\tcpserver.exe
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\bin\Debug\tcpserver.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\obj\x86\Debug\tcpserver.csprojResolveAssemblyReference.cache
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\obj\x86\Debug\tcpserver.logserver.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\obj\x86\Debug\tcpserver.Properties.Resources.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\tcpserver\tcpserver\obj\x86\Debug\tcpserver.csproj.GenerateResource.Cache

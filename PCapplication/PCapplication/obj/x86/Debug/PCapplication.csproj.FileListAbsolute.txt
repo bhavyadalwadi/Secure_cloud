@@ -1,0 +1,12 @@
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\bin\Debug\PCapplication.exe
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\bin\Debug\PCapplication.pdb
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.Form1.resources
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.Form2.resources
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.Properties.Resources.resources
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.csproj.GenerateResource.Cache
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.exe
+c:\users\boney\documents\visual studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.csprojResolveAssemblyReference.cache
+C:\Users\boney\Documents\Visual Studio 2010\Projects\PCapplication\PCapplication\bin\Debug\PCapplication.exe.config
+C:\Users\boney\Documents\Visual Studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.filesharingclient.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\PCapplication\PCapplication\obj\x86\Debug\PCapplication.tcpclient.resources

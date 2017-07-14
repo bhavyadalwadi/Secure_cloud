@@ -1,0 +1,16 @@
+c:\users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\bin\Debug\file-receiver.exe
+c:\users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\bin\Debug\file-receiver.pdb
+c:\users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\obj\x86\Debug\file_receiver.Properties.Resources.resources
+c:\users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\obj\x86\Debug\file-receiver.csproj.GenerateResource.Cache
+c:\users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\obj\x86\Debug\file-receiver.exe
+c:\users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\obj\x86\Debug\file-receiver.pdb
+C:\Users\boney\documents\visual studio 2010\Projects\file-receiver\file-receiver\obj\x86\Debug\file-receiver.csprojResolveAssemblyReference.cache
+C:\Users\boney\Documents\Visual Studio 2010\Projects\file-receiver\file-receiver\obj\x86\Debug\file_receiver.filereceiver.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\obj\x86\Debug\file-receiver.exe
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\obj\x86\Debug\file-receiver.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\bin\Debug\file-receiver.exe
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\bin\Debug\file-receiver.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\obj\x86\Debug\file-receiver.csprojResolveAssemblyReference.cache
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\obj\x86\Debug\file_receiver.filereceiver.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\obj\x86\Debug\file_receiver.Properties.Resources.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\file-receiver\file-receiver\obj\x86\Debug\file-receiver.csproj.GenerateResource.Cache

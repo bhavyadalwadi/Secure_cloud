@@ -1,0 +1,16 @@
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\bin\Debug\pubkey.exe
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\bin\Debug\pubkey.pdb
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\obj\x86\Debug\pubkey.csprojResolveAssemblyReference.cache
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\obj\x86\Debug\pubkey.Properties.Resources.resources
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\obj\x86\Debug\pubkey.csproj.GenerateResource.Cache
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\obj\x86\Debug\pubkey.exe
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\obj\x86\Debug\pubkey.pdb
+C:\Users\boney\documents\visual studio 2010\Projects\pubkey\pubkey\obj\x86\Debug\pubkey.publistener.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\obj\x86\Debug\pubkey.exe
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\obj\x86\Debug\pubkey.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\bin\Debug\pubkey.exe
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\bin\Debug\pubkey.pdb
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\obj\x86\Debug\pubkey.csprojResolveAssemblyReference.cache
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\obj\x86\Debug\pubkey.publistener.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\obj\x86\Debug\pubkey.Properties.Resources.resources
+C:\Users\boney\Documents\Visual Studio 2010\Projects\server\pubkey\pubkey\obj\x86\Debug\pubkey.csproj.GenerateResource.Cache
