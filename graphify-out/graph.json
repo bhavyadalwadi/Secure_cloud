@@ -1,0 +1,3960 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Form2.Designer.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_form2_designer_cs",
+      "community": 6,
+      "norm_label": "form2.designer.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_form2_designer_pcapplication",
+      "community": 6,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "Form2",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L3",
+      "id": "pcapplication_form2_designer_form2",
+      "community": 6,
+      "norm_label": "form2"
+    },
+    {
+      "label": "IContainer",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L8",
+      "id": "icontainer",
+      "community": 0,
+      "norm_label": "icontainer"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L14",
+      "id": "pcapplication_form2_designer_form2_dispose",
+      "community": 6,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L29",
+      "id": "pcapplication_form2_designer_form2_initializecomponent",
+      "community": 6,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "Button",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L70",
+      "id": "button",
+      "community": 0,
+      "norm_label": "button"
+    },
+    {
+      "label": "Label",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L71",
+      "id": "label",
+      "community": 0,
+      "norm_label": "label"
+    },
+    {
+      "label": "OpenFileDialog",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L172",
+      "id": "openfiledialog",
+      "community": 6,
+      "norm_label": "openfiledialog"
+    },
+    {
+      "label": "DataGridView",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L175",
+      "id": "datagridview",
+      "community": 6,
+      "norm_label": "datagridview"
+    },
+    {
+      "label": "BindingSource",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L176",
+      "id": "bindingsource",
+      "community": 6,
+      "norm_label": "bindingsource"
+    },
+    {
+      "label": "DataSet",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L178",
+      "id": "dataset",
+      "community": 6,
+      "norm_label": "dataset"
+    },
+    {
+      "label": "DataTable",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L179",
+      "id": "datatable",
+      "community": 6,
+      "norm_label": "datatable"
+    },
+    {
+      "label": "DataColumn",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L180",
+      "id": "datacolumn",
+      "community": 6,
+      "norm_label": "datacolumn"
+    },
+    {
+      "label": "tcpclient.Designer.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_tcpclient_designer_cs",
+      "community": 0,
+      "norm_label": "tcpclient.designer.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_tcpclient_designer_pcapplication",
+      "community": 0,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "tcpclient",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L3",
+      "id": "pcapplication_tcpclient_designer_tcpclient",
+      "community": 0,
+      "norm_label": "tcpclient"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L14",
+      "id": "pcapplication_tcpclient_designer_tcpclient_dispose",
+      "community": 0,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L29",
+      "id": "pcapplication_tcpclient_designer_tcpclient_initializecomponent",
+      "community": 0,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "Form1.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_form1_cs",
+      "community": 1,
+      "norm_label": "form1.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L12",
+      "id": "pcapplication_form1_pcapplication",
+      "community": 1,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "Form1",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L14",
+      "id": "pcapplication_form1_form1",
+      "community": 1,
+      "norm_label": "form1"
+    },
+    {
+      "label": "Form",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "form",
+      "community": 1,
+      "norm_label": "form"
+    },
+    {
+      "label": "string",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L21",
+      "id": "string",
+      "community": 1,
+      "norm_label": "string"
+    },
+    {
+      "label": "bool",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L18",
+      "id": "bool",
+      "community": 1,
+      "norm_label": "bool"
+    },
+    {
+      "label": ".button1_Click()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L25",
+      "id": "pcapplication_form1_form1_button1_click",
+      "community": 1,
+      "norm_label": ".button1_click()"
+    },
+    {
+      "label": ".chk()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L47",
+      "id": "pcapplication_form1_form1_chk",
+      "community": 1,
+      "norm_label": ".chk()"
+    },
+    {
+      "label": "Form1.Designer.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_form1_designer_cs",
+      "community": 0,
+      "norm_label": "form1.designer.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_form1_designer_pcapplication",
+      "community": 0,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "Form1",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L3",
+      "id": "pcapplication_form1_designer_form1",
+      "community": 0,
+      "norm_label": "form1"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L14",
+      "id": "pcapplication_form1_designer_form1_dispose",
+      "community": 0,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L29",
+      "id": "pcapplication_form1_designer_form1_initializecomponent",
+      "community": 0,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "TextBox",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L137",
+      "id": "textbox",
+      "community": 0,
+      "norm_label": "textbox"
+    },
+    {
+      "label": "Form2.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_form2_cs",
+      "community": 2,
+      "norm_label": "form2.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L18",
+      "id": "pcapplication_form2_pcapplication",
+      "community": 2,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "Form2",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L20",
+      "id": "pcapplication_form2_form2",
+      "community": 2,
+      "norm_label": "form2"
+    },
+    {
+      "label": "RSAParameters",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L31",
+      "id": "rsaparameters",
+      "community": 2,
+      "norm_label": "rsaparameters"
+    },
+    {
+      "label": ".button1_Click()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L58",
+      "id": "pcapplication_form2_form2_button1_click",
+      "community": 2,
+      "norm_label": ".button1_click()"
+    },
+    {
+      "label": ".updateList()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L92",
+      "id": "pcapplication_form2_form2_updatelist",
+      "community": 2,
+      "norm_label": ".updatelist()"
+    },
+    {
+      "label": ".EncSessionKey()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L109",
+      "id": "pcapplication_form2_form2_encsessionkey",
+      "community": 2,
+      "norm_label": ".encsessionkey()"
+    },
+    {
+      "label": ".ZeroMemory()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L127",
+      "id": "pcapplication_form2_form2_zeromemory",
+      "community": 2,
+      "norm_label": ".zeromemory()"
+    },
+    {
+      "label": ".GenerateKey()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L130",
+      "id": "pcapplication_form2_form2_generatekey",
+      "community": 2,
+      "norm_label": ".generatekey()"
+    },
+    {
+      "label": ".storeSkey()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L141",
+      "id": "pcapplication_form2_form2_storeskey",
+      "community": 2,
+      "norm_label": ".storeskey()"
+    },
+    {
+      "label": ".getSkey()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L147",
+      "id": "pcapplication_form2_form2_getskey",
+      "community": 2,
+      "norm_label": ".getskey()"
+    },
+    {
+      "label": ".EncryptFile()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L152",
+      "id": "pcapplication_form2_form2_encryptfile",
+      "community": 2,
+      "norm_label": ".encryptfile()"
+    },
+    {
+      "label": ".button2_Click()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L178",
+      "id": "pcapplication_form2_form2_button2_click",
+      "community": 2,
+      "norm_label": ".button2_click()"
+    },
+    {
+      "label": ".DecryptFile()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L218",
+      "id": "pcapplication_form2_form2_decryptfile",
+      "community": 2,
+      "norm_label": ".decryptfile()"
+    },
+    {
+      "label": ".button3_Click()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L242",
+      "id": "pcapplication_form2_form2_button3_click",
+      "community": 2,
+      "norm_label": ".button3_click()"
+    },
+    {
+      "label": ".SendFile()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L284",
+      "id": "pcapplication_form2_form2_sendfile",
+      "community": 2,
+      "norm_label": ".sendfile()"
+    },
+    {
+      "label": "filesharingclient.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_filesharingclient_cs",
+      "community": 1,
+      "norm_label": "filesharingclient.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L15",
+      "id": "pcapplication_filesharingclient_pcapplication",
+      "community": 1,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "filesharingclient",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L17",
+      "id": "pcapplication_filesharingclient_filesharingclient",
+      "community": 1,
+      "norm_label": "filesharingclient"
+    },
+    {
+      "label": ".btnsend_Click()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L27",
+      "id": "pcapplication_filesharingclient_filesharingclient_btnsend_click",
+      "community": 1,
+      "norm_label": ".btnsend_click()"
+    },
+    {
+      "label": ".btnbrowse_Click()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L36",
+      "id": "pcapplication_filesharingclient_filesharingclient_btnbrowse_click",
+      "community": 1,
+      "norm_label": ".btnbrowse_click()"
+    },
+    {
+      "label": ".SendFile()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L47",
+      "id": "pcapplication_filesharingclient_filesharingclient_sendfile",
+      "community": 1,
+      "norm_label": ".sendfile()"
+    },
+    {
+      "label": "tcpclient.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_tcpclient_cs",
+      "community": 1,
+      "norm_label": "tcpclient.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L13",
+      "id": "pcapplication_tcpclient_pcapplication",
+      "community": 1,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "tcpclient",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L15",
+      "id": "pcapplication_tcpclient_tcpclient",
+      "community": 1,
+      "norm_label": "tcpclient"
+    },
+    {
+      "label": ".client_Load()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L22",
+      "id": "pcapplication_tcpclient_tcpclient_client_load",
+      "community": 1,
+      "norm_label": ".client_load()"
+    },
+    {
+      "label": "filesharingclient.Designer.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_filesharingclient_designer_cs",
+      "community": 0,
+      "norm_label": "filesharingclient.designer.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_filesharingclient_designer_pcapplication",
+      "community": 0,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "filesharingclient",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L3",
+      "id": "pcapplication_filesharingclient_designer_filesharingclient",
+      "community": 0,
+      "norm_label": "filesharingclient"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L14",
+      "id": "pcapplication_filesharingclient_designer_filesharingclient_dispose",
+      "community": 0,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L29",
+      "id": "pcapplication_filesharingclient_designer_filesharingclient_initializecomponent",
+      "community": 0,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "Program.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_program_cs",
+      "community": 13,
+      "norm_label": "program.cs"
+    },
+    {
+      "label": "PCapplication",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L6",
+      "id": "pcapplication_program_pcapplication",
+      "community": 13,
+      "norm_label": "pcapplication"
+    },
+    {
+      "label": "Program",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L8",
+      "id": "pcapplication_program_program",
+      "community": 13,
+      "norm_label": "program"
+    },
+    {
+      "label": ".Main()",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L13",
+      "id": "pcapplication_program_program_main",
+      "community": 13,
+      "norm_label": ".main()"
+    },
+    {
+      "label": "AssemblyInfo.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Properties/AssemblyInfo.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_properties_assemblyinfo_cs",
+      "community": 17,
+      "norm_label": "assemblyinfo.cs"
+    },
+    {
+      "label": "Settings.Designer.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Properties/Settings.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_properties_settings_designer_cs",
+      "community": 9,
+      "norm_label": "settings.designer.cs"
+    },
+    {
+      "label": "PCapplication.Properties",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_settings_designer_pcapplication_properties",
+      "community": 9,
+      "norm_label": "pcapplication.properties"
+    },
+    {
+      "label": "Settings",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Settings.Designer.cs",
+      "source_location": "L15",
+      "id": "properties_settings_designer_settings",
+      "community": 9,
+      "norm_label": "settings"
+    },
+    {
+      "label": "Resources.Designer.cs",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Properties/Resources.Designer.cs",
+      "source_location": "L1",
+      "id": "pcapplication_pcapplication_properties_resources_designer_cs",
+      "community": 5,
+      "norm_label": "resources.designer.cs"
+    },
+    {
+      "label": "PCapplication.Properties",
+      "file_type": "code",
+      "source_file": "PCapplication/PCapplication/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_resources_designer_pcapplication_properties",
+      "community": 5,
+      "norm_label": "pcapplication.properties"
+    },
+    {
+      "label": "Resources",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L22",
+      "id": "properties_resources_designer_resources",
+      "community": 5,
+      "norm_label": "resources"
+    },
+    {
+      "label": "ResourceManager",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L28",
+      "id": "resourcemanager",
+      "community": 5,
+      "norm_label": "resourcemanager"
+    },
+    {
+      "label": "CultureInfo",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L30",
+      "id": "cultureinfo",
+      "community": 5,
+      "norm_label": "cultureinfo"
+    },
+    {
+      "label": "logserver.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L1",
+      "id": "server_tcpserver_tcpserver_logserver_designer_cs",
+      "community": 0,
+      "norm_label": "logserver.designer.cs"
+    },
+    {
+      "label": "tcpserver",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L1",
+      "id": "tcpserver_logserver_designer_tcpserver",
+      "community": 0,
+      "norm_label": "tcpserver"
+    },
+    {
+      "label": "logserver",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L3",
+      "id": "tcpserver_logserver_designer_logserver",
+      "community": 0,
+      "norm_label": "logserver"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L14",
+      "id": "tcpserver_logserver_designer_logserver_dispose",
+      "community": 0,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L29",
+      "id": "tcpserver_logserver_designer_logserver_initializecomponent",
+      "community": 0,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "logserver.cs",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L1",
+      "id": "server_tcpserver_tcpserver_logserver_cs",
+      "community": 7,
+      "norm_label": "logserver.cs"
+    },
+    {
+      "label": "tcpserver",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L15",
+      "id": "tcpserver_logserver_tcpserver",
+      "community": 7,
+      "norm_label": "tcpserver"
+    },
+    {
+      "label": "logserver",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L17",
+      "id": "tcpserver_logserver_logserver",
+      "community": 7,
+      "norm_label": "logserver"
+    },
+    {
+      "label": ".Form1_Load()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L26",
+      "id": "tcpserver_logserver_logserver_form1_load",
+      "community": 7,
+      "norm_label": ".form1_load()"
+    },
+    {
+      "label": "int",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L156",
+      "id": "int",
+      "community": 7,
+      "norm_label": "int"
+    },
+    {
+      "label": ".CreateHash()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L175",
+      "id": "tcpserver_logserver_logserver_createhash",
+      "community": 7,
+      "norm_label": ".createhash()"
+    },
+    {
+      "label": ".ValidatePassword()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L201",
+      "id": "tcpserver_logserver_logserver_validatepassword",
+      "community": 7,
+      "norm_label": ".validatepassword()"
+    },
+    {
+      "label": ".SlowEquals()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L228",
+      "id": "tcpserver_logserver_logserver_slowequals",
+      "community": 7,
+      "norm_label": ".slowequals()"
+    },
+    {
+      "label": ".PBKDF2()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L248",
+      "id": "tcpserver_logserver_logserver_pbkdf2",
+      "community": 7,
+      "norm_label": ".pbkdf2()"
+    },
+    {
+      "label": ".GenerateSaltedHash()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L256",
+      "id": "tcpserver_logserver_logserver_generatesaltedhash",
+      "community": 7,
+      "norm_label": ".generatesaltedhash()"
+    },
+    {
+      "label": ".CompareByteArrays()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L278",
+      "id": "tcpserver_logserver_logserver_comparebytearrays",
+      "community": 7,
+      "norm_label": ".comparebytearrays()"
+    },
+    {
+      "label": "Program.cs",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L1",
+      "id": "server_tcpserver_tcpserver_program_cs",
+      "community": 15,
+      "norm_label": "program.cs"
+    },
+    {
+      "label": "tcpserver",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L6",
+      "id": "tcpserver_program_tcpserver",
+      "community": 15,
+      "norm_label": "tcpserver"
+    },
+    {
+      "label": "Program",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L8",
+      "id": "tcpserver_program_program",
+      "community": 15,
+      "norm_label": "program"
+    },
+    {
+      "label": ".Main()",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L13",
+      "id": "tcpserver_program_program_main",
+      "community": 15,
+      "norm_label": ".main()"
+    },
+    {
+      "label": "AssemblyInfo.cs",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Properties/AssemblyInfo.cs",
+      "source_location": "L1",
+      "id": "server_tcpserver_tcpserver_properties_assemblyinfo_cs",
+      "community": 18,
+      "norm_label": "assemblyinfo.cs"
+    },
+    {
+      "label": "Settings.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Properties/Settings.Designer.cs",
+      "source_location": "L1",
+      "id": "server_tcpserver_tcpserver_properties_settings_designer_cs",
+      "community": 9,
+      "norm_label": "settings.designer.cs"
+    },
+    {
+      "label": "tcpserver.Properties",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_settings_designer_tcpserver_properties",
+      "community": 9,
+      "norm_label": "tcpserver.properties"
+    },
+    {
+      "label": "Resources.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Properties/Resources.Designer.cs",
+      "source_location": "L1",
+      "id": "server_tcpserver_tcpserver_properties_resources_designer_cs",
+      "community": 5,
+      "norm_label": "resources.designer.cs"
+    },
+    {
+      "label": "tcpserver.Properties",
+      "file_type": "code",
+      "source_file": "server/tcpserver/tcpserver/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_resources_designer_tcpserver_properties",
+      "community": 5,
+      "norm_label": "tcpserver.properties"
+    },
+    {
+      "label": "filereceiver.cs",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L1",
+      "id": "server_file_receiver_file_receiver_filereceiver_cs",
+      "community": 8,
+      "norm_label": "filereceiver.cs"
+    },
+    {
+      "label": "file_receiver",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L17",
+      "id": "file_receiver_filereceiver_file_receiver",
+      "community": 8,
+      "norm_label": "file_receiver"
+    },
+    {
+      "label": "filereceiver",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L19",
+      "id": "file_receiver_filereceiver_filereceiver",
+      "community": 8,
+      "norm_label": "filereceiver"
+    },
+    {
+      "label": "MySqlConnection",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L31",
+      "id": "mysqlconnection",
+      "community": 8,
+      "norm_label": "mysqlconnection"
+    },
+    {
+      "label": "MySqlCommand",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L32",
+      "id": "mysqlcommand",
+      "community": 8,
+      "norm_label": "mysqlcommand"
+    },
+    {
+      "label": ".Form1_Load()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L42",
+      "id": "file_receiver_filereceiver_filereceiver_form1_load",
+      "community": 8,
+      "norm_label": ".form1_load()"
+    },
+    {
+      "label": ".button1_Click()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L49",
+      "id": "file_receiver_filereceiver_filereceiver_button1_click",
+      "community": 8,
+      "norm_label": ".button1_click()"
+    },
+    {
+      "label": ".updatedata()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L60",
+      "id": "file_receiver_filereceiver_filereceiver_updatedata",
+      "community": 8,
+      "norm_label": ".updatedata()"
+    },
+    {
+      "label": ".Form1_NewFileRecieved()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L90",
+      "id": "file_receiver_filereceiver_filereceiver_form1_newfilerecieved",
+      "community": 8,
+      "norm_label": ".form1_newfilerecieved()"
+    },
+    {
+      "label": ".HandleIncomingFile()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L101",
+      "id": "file_receiver_filereceiver_filereceiver_handleincomingfile",
+      "community": 8,
+      "norm_label": ".handleincomingfile()"
+    },
+    {
+      "label": "filereceiver.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L1",
+      "id": "server_file_receiver_file_receiver_filereceiver_designer_cs",
+      "community": 0,
+      "norm_label": "filereceiver.designer.cs"
+    },
+    {
+      "label": "file_receiver",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L1",
+      "id": "file_receiver_filereceiver_designer_file_receiver",
+      "community": 0,
+      "norm_label": "file_receiver"
+    },
+    {
+      "label": "filereceiver",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L3",
+      "id": "file_receiver_filereceiver_designer_filereceiver",
+      "community": 0,
+      "norm_label": "filereceiver"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L14",
+      "id": "file_receiver_filereceiver_designer_filereceiver_dispose",
+      "community": 0,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L29",
+      "id": "file_receiver_filereceiver_designer_filereceiver_initializecomponent",
+      "community": 0,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "Program.cs",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L1",
+      "id": "server_file_receiver_file_receiver_program_cs",
+      "community": 12,
+      "norm_label": "program.cs"
+    },
+    {
+      "label": "file_receiver",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L6",
+      "id": "file_receiver_program_file_receiver",
+      "community": 12,
+      "norm_label": "file_receiver"
+    },
+    {
+      "label": "Program",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L8",
+      "id": "file_receiver_program_program",
+      "community": 12,
+      "norm_label": "program"
+    },
+    {
+      "label": ".Main()",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L13",
+      "id": "file_receiver_program_program_main",
+      "community": 12,
+      "norm_label": ".main()"
+    },
+    {
+      "label": "AssemblyInfo.cs",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Properties/AssemblyInfo.cs",
+      "source_location": "L1",
+      "id": "server_file_receiver_file_receiver_properties_assemblyinfo_cs",
+      "community": 19,
+      "norm_label": "assemblyinfo.cs"
+    },
+    {
+      "label": "Settings.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Properties/Settings.Designer.cs",
+      "source_location": "L1",
+      "id": "server_file_receiver_file_receiver_properties_settings_designer_cs",
+      "community": 9,
+      "norm_label": "settings.designer.cs"
+    },
+    {
+      "label": "file_receiver.Properties",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_settings_designer_file_receiver_properties",
+      "community": 9,
+      "norm_label": "file_receiver.properties"
+    },
+    {
+      "label": "Resources.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Properties/Resources.Designer.cs",
+      "source_location": "L1",
+      "id": "server_file_receiver_file_receiver_properties_resources_designer_cs",
+      "community": 5,
+      "norm_label": "resources.designer.cs"
+    },
+    {
+      "label": "file_receiver.Properties",
+      "file_type": "code",
+      "source_file": "server/file-receiver/file-receiver/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_resources_designer_file_receiver_properties",
+      "community": 5,
+      "norm_label": "file_receiver.properties"
+    },
+    {
+      "label": "publistener.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L1",
+      "id": "server_pubkey_pubkey_publistener_designer_cs",
+      "community": 0,
+      "norm_label": "publistener.designer.cs"
+    },
+    {
+      "label": "pubkey",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L1",
+      "id": "pubkey_publistener_designer_pubkey",
+      "community": 0,
+      "norm_label": "pubkey"
+    },
+    {
+      "label": "publistener",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L3",
+      "id": "pubkey_publistener_designer_publistener",
+      "community": 0,
+      "norm_label": "publistener"
+    },
+    {
+      "label": ".Dispose()",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L14",
+      "id": "pubkey_publistener_designer_publistener_dispose",
+      "community": 0,
+      "norm_label": ".dispose()"
+    },
+    {
+      "label": ".InitializeComponent()",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L29",
+      "id": "pubkey_publistener_designer_publistener_initializecomponent",
+      "community": 0,
+      "norm_label": ".initializecomponent()"
+    },
+    {
+      "label": "Program.cs",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L1",
+      "id": "server_pubkey_pubkey_program_cs",
+      "community": 14,
+      "norm_label": "program.cs"
+    },
+    {
+      "label": "pubkey",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L6",
+      "id": "pubkey_program_pubkey",
+      "community": 14,
+      "norm_label": "pubkey"
+    },
+    {
+      "label": "Program",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L8",
+      "id": "pubkey_program_program",
+      "community": 14,
+      "norm_label": "program"
+    },
+    {
+      "label": ".Main()",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L13",
+      "id": "pubkey_program_program_main",
+      "community": 14,
+      "norm_label": ".main()"
+    },
+    {
+      "label": "publistener.cs",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L1",
+      "id": "server_pubkey_pubkey_publistener_cs",
+      "community": 1,
+      "norm_label": "publistener.cs"
+    },
+    {
+      "label": "pubkey",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L16",
+      "id": "pubkey_publistener_pubkey",
+      "community": 1,
+      "norm_label": "pubkey"
+    },
+    {
+      "label": "publistener",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L18",
+      "id": "pubkey_publistener_publistener",
+      "community": 1,
+      "norm_label": "publistener"
+    },
+    {
+      "label": ".button1_Click()",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L28",
+      "id": "pubkey_publistener_publistener_button1_click",
+      "community": 1,
+      "norm_label": ".button1_click()"
+    },
+    {
+      "label": ".start_listening()",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L33",
+      "id": "pubkey_publistener_publistener_start_listening",
+      "community": 1,
+      "norm_label": ".start_listening()"
+    },
+    {
+      "label": "AssemblyInfo.cs",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/AssemblyInfo.cs",
+      "source_location": "L1",
+      "id": "server_pubkey_pubkey_properties_assemblyinfo_cs",
+      "community": 20,
+      "norm_label": "assemblyinfo.cs"
+    },
+    {
+      "label": "Settings.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Settings.Designer.cs",
+      "source_location": "L1",
+      "id": "server_pubkey_pubkey_properties_settings_designer_cs",
+      "community": 9,
+      "norm_label": "settings.designer.cs"
+    },
+    {
+      "label": "pubkey.Properties",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_settings_designer_pubkey_properties",
+      "community": 9,
+      "norm_label": "pubkey.properties"
+    },
+    {
+      "label": "Resources.Designer.cs",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L1",
+      "id": "server_pubkey_pubkey_properties_resources_designer_cs",
+      "community": 5,
+      "norm_label": "resources.designer.cs"
+    },
+    {
+      "label": "pubkey.Properties",
+      "file_type": "code",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "id": "properties_resources_designer_pubkey_properties",
+      "community": 5,
+      "norm_label": "pubkey.properties"
+    },
+    {
+      "label": "index.php",
+      "file_type": "code",
+      "source_file": "www/index.php",
+      "source_location": "L1",
+      "id": "www_index_php",
+      "community": 21,
+      "norm_label": "index.php"
+    },
+    {
+      "label": "testmysql.php",
+      "file_type": "code",
+      "source_file": "www/testmysql.php",
+      "source_location": "L1",
+      "id": "www_testmysql_php",
+      "community": 22,
+      "norm_label": "testmysql.php"
+    },
+    {
+      "label": "download.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/download.php",
+      "source_location": "L1",
+      "id": "www_finalhash_download_php",
+      "community": 16,
+      "norm_label": "download.php"
+    },
+    {
+      "label": "output_file()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/download.php",
+      "source_location": "L4",
+      "id": "finalhash_download_output_file",
+      "community": 16,
+      "norm_label": "output_file()"
+    },
+    {
+      "label": "DB_Functions.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/DB_Functions.php",
+      "source_location": "L1",
+      "id": "www_finalhash_db_functions_php",
+      "community": 3,
+      "norm_label": "db_functions.php"
+    },
+    {
+      "label": "DB_Functions",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L3",
+      "id": "finalhash_db_functions_db_functions",
+      "community": 3,
+      "norm_label": "db_functions"
+    },
+    {
+      "label": ".__construct()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L9",
+      "id": "finalhash_db_functions_db_functions_construct",
+      "community": 3,
+      "norm_label": ".__construct()"
+    },
+    {
+      "label": ".__destruct()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L17",
+      "id": "finalhash_db_functions_db_functions_destruct",
+      "community": 3,
+      "norm_label": ".__destruct()"
+    },
+    {
+      "label": ".random_string()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L26",
+      "id": "finalhash_db_functions_db_functions_random_string",
+      "community": 3,
+      "norm_label": ".random_string()"
+    },
+    {
+      "label": ".forgotPassword()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L42",
+      "id": "finalhash_db_functions_db_functions_forgotpassword",
+      "community": 3,
+      "norm_label": ".forgotpassword()"
+    },
+    {
+      "label": ".storeUser()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L62",
+      "id": "finalhash_db_functions_db_functions_storeuser",
+      "community": 3,
+      "norm_label": ".storeuser()"
+    },
+    {
+      "label": ".getUserByEmailAndPassword()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L83",
+      "id": "finalhash_db_functions_db_functions_getuserbyemailandpassword",
+      "community": 3,
+      "norm_label": ".getuserbyemailandpassword()"
+    },
+    {
+      "label": ".isUserExisted()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L107",
+      "id": "finalhash_db_functions_db_functions_isuserexisted",
+      "community": 3,
+      "norm_label": ".isuserexisted()"
+    },
+    {
+      "label": ".hashSSHA()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L123",
+      "id": "finalhash_db_functions_db_functions_hashssha",
+      "community": 3,
+      "norm_label": ".hashssha()"
+    },
+    {
+      "label": ".checkhashSSHA()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L136",
+      "id": "finalhash_db_functions_db_functions_checkhashssha",
+      "community": 3,
+      "norm_label": ".checkhashssha()"
+    },
+    {
+      "label": "afterlogin111.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/afterlogin111.php",
+      "source_location": "L1",
+      "id": "www_finalhash_afterlogin111_php",
+      "community": 23,
+      "norm_label": "afterlogin111.php"
+    },
+    {
+      "label": "logout.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/logout.php",
+      "source_location": "L1",
+      "id": "www_finalhash_logout_php",
+      "community": 24,
+      "norm_label": "logout.php"
+    },
+    {
+      "label": "DB_Connect.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/DB_Connect.php",
+      "source_location": "L1",
+      "id": "www_finalhash_db_connect_php",
+      "community": 10,
+      "norm_label": "db_connect.php"
+    },
+    {
+      "label": "DB_Connect",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L2",
+      "id": "finalhash_db_connect_db_connect",
+      "community": 10,
+      "norm_label": "db_connect"
+    },
+    {
+      "label": ".__construct()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L5",
+      "id": "finalhash_db_connect_db_connect_construct",
+      "community": 10,
+      "norm_label": ".__construct()"
+    },
+    {
+      "label": ".__destruct()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L10",
+      "id": "finalhash_db_connect_db_connect_destruct",
+      "community": 10,
+      "norm_label": ".__destruct()"
+    },
+    {
+      "label": ".connect()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L15",
+      "id": "finalhash_db_connect_db_connect_connect",
+      "community": 10,
+      "norm_label": ".connect()"
+    },
+    {
+      "label": ".close()",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L27",
+      "id": "finalhash_db_connect_db_connect_close",
+      "community": 10,
+      "norm_label": ".close()"
+    },
+    {
+      "label": "config.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/config.php",
+      "source_location": "L1",
+      "id": "www_finalhash_config_php",
+      "community": 25,
+      "norm_label": "config.php"
+    },
+    {
+      "label": "ind.php",
+      "file_type": "code",
+      "source_file": "www/finalhash/ind.php",
+      "source_location": "L1",
+      "id": "www_finalhash_ind_php",
+      "community": 26,
+      "norm_label": "ind.php"
+    },
+    {
+      "label": "index.php",
+      "file_type": "code",
+      "source_file": "www/project_php/index.php",
+      "source_location": "L1",
+      "id": "www_project_php_index_php",
+      "community": 27,
+      "norm_label": "index.php"
+    },
+    {
+      "label": "DB_Functions.php",
+      "file_type": "code",
+      "source_file": "www/project_php/include/DB_Functions.php",
+      "source_location": "L1",
+      "id": "www_project_php_include_db_functions_php",
+      "community": 4,
+      "norm_label": "db_functions.php"
+    },
+    {
+      "label": "DB_Functions",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L3",
+      "id": "include_db_functions_db_functions",
+      "community": 4,
+      "norm_label": "db_functions"
+    },
+    {
+      "label": ".__construct()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L9",
+      "id": "include_db_functions_db_functions_construct",
+      "community": 4,
+      "norm_label": ".__construct()"
+    },
+    {
+      "label": ".__destruct()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L17",
+      "id": "include_db_functions_db_functions_destruct",
+      "community": 4,
+      "norm_label": ".__destruct()"
+    },
+    {
+      "label": ".random_string()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L26",
+      "id": "include_db_functions_db_functions_random_string",
+      "community": 4,
+      "norm_label": ".random_string()"
+    },
+    {
+      "label": ".forgotPassword()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L42",
+      "id": "include_db_functions_db_functions_forgotpassword",
+      "community": 4,
+      "norm_label": ".forgotpassword()"
+    },
+    {
+      "label": ".storeUser()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L62",
+      "id": "include_db_functions_db_functions_storeuser",
+      "community": 4,
+      "norm_label": ".storeuser()"
+    },
+    {
+      "label": ".getUserByEmailAndPassword()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L83",
+      "id": "include_db_functions_db_functions_getuserbyemailandpassword",
+      "community": 4,
+      "norm_label": ".getuserbyemailandpassword()"
+    },
+    {
+      "label": ".isUserExisted()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L107",
+      "id": "include_db_functions_db_functions_isuserexisted",
+      "community": 4,
+      "norm_label": ".isuserexisted()"
+    },
+    {
+      "label": ".hashSSHA()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L123",
+      "id": "include_db_functions_db_functions_hashssha",
+      "community": 4,
+      "norm_label": ".hashssha()"
+    },
+    {
+      "label": ".checkhashSSHA()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L136",
+      "id": "include_db_functions_db_functions_checkhashssha",
+      "community": 4,
+      "norm_label": ".checkhashssha()"
+    },
+    {
+      "label": "DB_Connect.php",
+      "file_type": "code",
+      "source_file": "www/project_php/include/DB_Connect.php",
+      "source_location": "L1",
+      "id": "www_project_php_include_db_connect_php",
+      "community": 11,
+      "norm_label": "db_connect.php"
+    },
+    {
+      "label": "DB_Connect",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L2",
+      "id": "include_db_connect_db_connect",
+      "community": 11,
+      "norm_label": "db_connect"
+    },
+    {
+      "label": ".__construct()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L5",
+      "id": "include_db_connect_db_connect_construct",
+      "community": 11,
+      "norm_label": ".__construct()"
+    },
+    {
+      "label": ".__destruct()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L10",
+      "id": "include_db_connect_db_connect_destruct",
+      "community": 11,
+      "norm_label": ".__destruct()"
+    },
+    {
+      "label": ".connect()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L15",
+      "id": "include_db_connect_db_connect_connect",
+      "community": 11,
+      "norm_label": ".connect()"
+    },
+    {
+      "label": ".close()",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L27",
+      "id": "include_db_connect_db_connect_close",
+      "community": 11,
+      "norm_label": ".close()"
+    },
+    {
+      "label": "config.php",
+      "file_type": "code",
+      "source_file": "www/project_php/include/config.php",
+      "source_location": "L1",
+      "id": "www_project_php_include_config_php",
+      "community": 28,
+      "norm_label": "config.php"
+    },
+    {
+      "label": "index.php",
+      "file_type": "code",
+      "source_file": "www/www/index.php",
+      "source_location": "L1",
+      "id": "www_www_index_php",
+      "community": 29,
+      "norm_label": "index.php"
+    },
+    {
+      "label": "testmysql.php",
+      "file_type": "code",
+      "source_file": "www/www/testmysql.php",
+      "source_location": "L1",
+      "id": "www_www_testmysql_php",
+      "community": 30,
+      "norm_label": "testmysql.php"
+    },
+    {
+      "label": "download.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/download.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_download_php",
+      "community": 16,
+      "norm_label": "download.php"
+    },
+    {
+      "label": "DB_Functions.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_db_functions_php",
+      "community": 3,
+      "norm_label": "db_functions.php"
+    },
+    {
+      "label": "afterlogin111.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/afterlogin111.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_afterlogin111_php",
+      "community": 31,
+      "norm_label": "afterlogin111.php"
+    },
+    {
+      "label": "logout.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/logout.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_logout_php",
+      "community": 32,
+      "norm_label": "logout.php"
+    },
+    {
+      "label": "DB_Connect.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_db_connect_php",
+      "community": 10,
+      "norm_label": "db_connect.php"
+    },
+    {
+      "label": "config.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/config.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_config_php",
+      "community": 33,
+      "norm_label": "config.php"
+    },
+    {
+      "label": "ind.php",
+      "file_type": "code",
+      "source_file": "www/www/finalhash/ind.php",
+      "source_location": "L1",
+      "id": "www_www_finalhash_ind_php",
+      "community": 34,
+      "norm_label": "ind.php"
+    },
+    {
+      "label": "index.php",
+      "file_type": "code",
+      "source_file": "www/www/project_php/index.php",
+      "source_location": "L1",
+      "id": "www_www_project_php_index_php",
+      "community": 35,
+      "norm_label": "index.php"
+    },
+    {
+      "label": "DB_Functions.php",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L1",
+      "id": "www_www_project_php_include_db_functions_php",
+      "community": 4,
+      "norm_label": "db_functions.php"
+    },
+    {
+      "label": "DB_Connect.php",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L1",
+      "id": "www_www_project_php_include_db_connect_php",
+      "community": 11,
+      "norm_label": "db_connect.php"
+    },
+    {
+      "label": "config.php",
+      "file_type": "code",
+      "source_file": "www/www/project_php/include/config.php",
+      "source_location": "L1",
+      "id": "www_www_project_php_include_config_php",
+      "community": 36,
+      "norm_label": "config.php"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form2_designer_cs",
+      "target": "pcapplication_form2_designer_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form2_designer_cs",
+      "target": "pcapplication_form2_designer_form2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_form2_designer_form2",
+      "target": "pcapplication_form2_designer_form2_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pcapplication_form2_designer_form2",
+      "target": "pcapplication_form2_designer_form2_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L174",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L171",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "label",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L172",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "openfiledialog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L175",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "datagridview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L182",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "bindingsource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L178",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "dataset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L179",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "datatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.Designer.cs",
+      "source_location": "L181",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_designer_form2",
+      "target": "datacolumn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_tcpclient_designer_tcpclient",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form1_designer_form1",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_filesharingclient_designer_filesharingclient",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "tcpserver_logserver_designer_logserver",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "file_receiver_filereceiver_designer_filereceiver",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pubkey_publistener_designer_publistener",
+      "target": "icontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L115",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form1_designer_form1",
+      "target": "button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L136",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_filesharingclient_designer_filesharingclient",
+      "target": "button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L70",
+      "weight": 1.0,
+      "context": "field",
+      "source": "file_receiver_filereceiver_designer_filereceiver",
+      "target": "button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L70",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pubkey_publistener_designer_publistener",
+      "target": "button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L118",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form1_designer_form1",
+      "target": "label",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L142",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_filesharingclient_designer_filesharingclient",
+      "target": "label",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L59",
+      "weight": 1.0,
+      "context": "field",
+      "source": "tcpserver_logserver_designer_logserver",
+      "target": "label",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L71",
+      "weight": 1.0,
+      "context": "field",
+      "source": "file_receiver_filereceiver_designer_filereceiver",
+      "target": "label",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L71",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pubkey_publistener_designer_publistener",
+      "target": "label",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_tcpclient_designer_cs",
+      "target": "pcapplication_tcpclient_designer_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_tcpclient_designer_cs",
+      "target": "pcapplication_tcpclient_designer_tcpclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_tcpclient_designer_tcpclient",
+      "target": "pcapplication_tcpclient_designer_tcpclient_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pcapplication_tcpclient_designer_tcpclient",
+      "target": "pcapplication_tcpclient_designer_tcpclient_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form1_cs",
+      "target": "pcapplication_form1_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form1_cs",
+      "target": "pcapplication_form1_form1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_form1_form1",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form1_form1",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form1_form1",
+      "target": "bool",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "pcapplication_form1_form1",
+      "target": "pcapplication_form1_form1_button1_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "pcapplication_form1_form1",
+      "target": "pcapplication_form1_form1_chk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_filesharingclient",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "pcapplication_tcpclient_tcpclient",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "pubkey_publistener_publistener",
+      "target": "form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_form2",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_filesharingclient_filesharingclient",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "field",
+      "source": "tcpserver_logserver_logserver",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "field",
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pubkey_publistener_publistener",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pcapplication_form1_form1_button1_click",
+      "target": "pcapplication_form1_form1_chk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form1_designer_cs",
+      "target": "pcapplication_form1_designer_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form1_designer_cs",
+      "target": "pcapplication_form1_designer_form1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_form1_designer_form1",
+      "target": "pcapplication_form1_designer_form1_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pcapplication_form1_designer_form1",
+      "target": "pcapplication_form1_designer_form1_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form1.Designer.cs",
+      "source_location": "L120",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form1_designer_form1",
+      "target": "textbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L139",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_filesharingclient_designer_filesharingclient",
+      "target": "textbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form2_cs",
+      "target": "pcapplication_form2_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_form2_cs",
+      "target": "pcapplication_form2_form2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L31",
+      "weight": 1.0,
+      "context": "field",
+      "source": "pcapplication_form2_form2",
+      "target": "rsaparameters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_button1_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_updatelist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_encsessionkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_zeromemory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_generatekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_storeskey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_getskey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_encryptfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_button2_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_decryptfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_button3_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L284",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2",
+      "target": "pcapplication_form2_form2_sendfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button1_click",
+      "target": "pcapplication_form2_form2_updatelist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button1_click",
+      "target": "pcapplication_form2_form2_generatekey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button1_click",
+      "target": "pcapplication_form2_form2_encryptfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button1_click",
+      "target": "pcapplication_form2_form2_sendfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button1_click",
+      "target": "pcapplication_form2_form2_encsessionkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button1_click",
+      "target": "pcapplication_form2_form2_storeskey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L195",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button2_click",
+      "target": "pcapplication_form2_form2_getskey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Form2.cs",
+      "source_location": "L215",
+      "weight": 1.0,
+      "source": "pcapplication_form2_form2_button2_click",
+      "target": "pcapplication_form2_form2_decryptfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_filesharingclient_cs",
+      "target": "pcapplication_filesharingclient_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_filesharingclient_cs",
+      "target": "pcapplication_filesharingclient_filesharingclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_filesharingclient",
+      "target": "pcapplication_filesharingclient_filesharingclient_btnsend_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_filesharingclient",
+      "target": "pcapplication_filesharingclient_filesharingclient_btnbrowse_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_filesharingclient",
+      "target": "pcapplication_filesharingclient_filesharingclient_sendfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.cs",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_filesharingclient_btnsend_click",
+      "target": "pcapplication_filesharingclient_filesharingclient_sendfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_tcpclient_cs",
+      "target": "pcapplication_tcpclient_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_tcpclient_cs",
+      "target": "pcapplication_tcpclient_tcpclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/tcpclient.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "pcapplication_tcpclient_tcpclient",
+      "target": "pcapplication_tcpclient_tcpclient_client_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_filesharingclient_designer_cs",
+      "target": "pcapplication_filesharingclient_designer_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_filesharingclient_designer_cs",
+      "target": "pcapplication_filesharingclient_designer_filesharingclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_designer_filesharingclient",
+      "target": "pcapplication_filesharingclient_designer_filesharingclient_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/filesharingclient.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pcapplication_filesharingclient_designer_filesharingclient",
+      "target": "pcapplication_filesharingclient_designer_filesharingclient_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_program_cs",
+      "target": "pcapplication_program_pcapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_program_cs",
+      "target": "pcapplication_program_program",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Program.cs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pcapplication_program_program",
+      "target": "pcapplication_program_program_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_properties_settings_designer_cs",
+      "target": "properties_settings_designer_pcapplication_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Properties/Settings.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_properties_settings_designer_cs",
+      "target": "properties_settings_designer_settings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Settings.Designer.cs",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "field",
+      "source": "properties_settings_designer_settings",
+      "target": "properties_settings_designer_settings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Properties/Settings.Designer.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_properties_settings_designer_cs",
+      "target": "properties_settings_designer_settings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Properties/Settings.Designer.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_properties_settings_designer_cs",
+      "target": "properties_settings_designer_settings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Settings.Designer.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_properties_settings_designer_cs",
+      "target": "properties_settings_designer_settings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_properties_resources_designer_cs",
+      "target": "properties_resources_designer_pcapplication_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "PCapplication/PCapplication/Properties/Resources.Designer.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "pcapplication_pcapplication_properties_resources_designer_cs",
+      "target": "properties_resources_designer_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "field",
+      "source": "properties_resources_designer_resources",
+      "target": "resourcemanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "field",
+      "source": "properties_resources_designer_resources",
+      "target": "cultureinfo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Properties/Resources.Designer.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_properties_resources_designer_cs",
+      "target": "properties_resources_designer_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Properties/Resources.Designer.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_properties_resources_designer_cs",
+      "target": "properties_resources_designer_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_properties_resources_designer_cs",
+      "target": "properties_resources_designer_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_logserver_designer_cs",
+      "target": "tcpserver_logserver_designer_tcpserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_logserver_designer_cs",
+      "target": "tcpserver_logserver_designer_logserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_designer_logserver",
+      "target": "tcpserver_logserver_designer_logserver_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_designer_logserver",
+      "target": "tcpserver_logserver_designer_logserver_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_logserver_cs",
+      "target": "tcpserver_logserver_tcpserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_logserver_cs",
+      "target": "tcpserver_logserver_logserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_form1_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L162",
+      "weight": 1.0,
+      "context": "field",
+      "source": "tcpserver_logserver_logserver",
+      "target": "int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_createhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_validatepassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L228",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_slowequals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_pbkdf2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L256",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_generatesaltedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L278",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver",
+      "target": "tcpserver_logserver_logserver_comparebytearrays",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver_form1_load",
+      "target": "tcpserver_logserver_logserver_generatesaltedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver_form1_load",
+      "target": "tcpserver_logserver_logserver_comparebytearrays",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver_createhash",
+      "target": "tcpserver_logserver_logserver_pbkdf2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver_validatepassword",
+      "target": "tcpserver_logserver_logserver_pbkdf2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/logserver.cs",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "tcpserver_logserver_logserver_validatepassword",
+      "target": "tcpserver_logserver_logserver_slowequals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_program_cs",
+      "target": "tcpserver_program_tcpserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_program_cs",
+      "target": "tcpserver_program_program",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Program.cs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "tcpserver_program_program",
+      "target": "tcpserver_program_program_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_properties_settings_designer_cs",
+      "target": "properties_settings_designer_tcpserver_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/tcpserver/tcpserver/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_tcpserver_tcpserver_properties_resources_designer_cs",
+      "target": "properties_resources_designer_tcpserver_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_filereceiver_cs",
+      "target": "file_receiver_filereceiver_file_receiver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_filereceiver_cs",
+      "target": "file_receiver_filereceiver_filereceiver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L31",
+      "weight": 1.0,
+      "context": "field",
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "mysqlconnection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L32",
+      "weight": 1.0,
+      "context": "field",
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "mysqlcommand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "file_receiver_filereceiver_filereceiver_form1_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "file_receiver_filereceiver_filereceiver_button1_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "file_receiver_filereceiver_filereceiver_updatedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "file_receiver_filereceiver_filereceiver_form1_newfilerecieved",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver",
+      "target": "file_receiver_filereceiver_filereceiver_handleincomingfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver_button1_click",
+      "target": "file_receiver_filereceiver_filereceiver_handleincomingfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.cs",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_filereceiver_handleincomingfile",
+      "target": "file_receiver_filereceiver_filereceiver_updatedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_filereceiver_designer_cs",
+      "target": "file_receiver_filereceiver_designer_file_receiver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_filereceiver_designer_cs",
+      "target": "file_receiver_filereceiver_designer_filereceiver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_designer_filereceiver",
+      "target": "file_receiver_filereceiver_designer_filereceiver_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/filereceiver.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "file_receiver_filereceiver_designer_filereceiver",
+      "target": "file_receiver_filereceiver_designer_filereceiver_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_program_cs",
+      "target": "file_receiver_program_file_receiver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_program_cs",
+      "target": "file_receiver_program_program",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Program.cs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "file_receiver_program_program",
+      "target": "file_receiver_program_program_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_properties_settings_designer_cs",
+      "target": "properties_settings_designer_file_receiver_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/file-receiver/file-receiver/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_file_receiver_file_receiver_properties_resources_designer_cs",
+      "target": "properties_resources_designer_file_receiver_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_publistener_designer_cs",
+      "target": "pubkey_publistener_designer_pubkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_publistener_designer_cs",
+      "target": "pubkey_publistener_designer_publistener",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "pubkey_publistener_designer_publistener",
+      "target": "pubkey_publistener_designer_publistener_dispose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.Designer.cs",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "pubkey_publistener_designer_publistener",
+      "target": "pubkey_publistener_designer_publistener_initializecomponent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_program_cs",
+      "target": "pubkey_program_pubkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_program_cs",
+      "target": "pubkey_program_program",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Program.cs",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "pubkey_program_program",
+      "target": "pubkey_program_program_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_publistener_cs",
+      "target": "pubkey_publistener_pubkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_publistener_cs",
+      "target": "pubkey_publistener_publistener",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "pubkey_publistener_publistener",
+      "target": "pubkey_publistener_publistener_button1_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "pubkey_publistener_publistener",
+      "target": "pubkey_publistener_publistener_start_listening",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/publistener.cs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "pubkey_publistener_publistener_button1_click",
+      "target": "pubkey_publistener_publistener_start_listening",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Settings.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_properties_settings_designer_cs",
+      "target": "properties_settings_designer_pubkey_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/pubkey/pubkey/Properties/Resources.Designer.cs",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_pubkey_pubkey_properties_resources_designer_cs",
+      "target": "properties_resources_designer_pubkey_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/finalhash/download.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "www_finalhash_download_php",
+      "target": "finalhash_download_output_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/download.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "www_www_finalhash_download_php",
+      "target": "finalhash_download_output_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/finalhash/DB_Functions.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "www_finalhash_db_functions_php",
+      "target": "finalhash_db_functions_db_functions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_construct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_destruct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_random_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_forgotpassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_storeuser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_getuserbyemailandpassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_isuserexisted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_hashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions",
+      "target": "finalhash_db_functions_db_functions_checkhashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "www_www_finalhash_db_functions_php",
+      "target": "finalhash_db_functions_db_functions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions_storeuser",
+      "target": "finalhash_db_functions_db_functions_hashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Functions.php",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "finalhash_db_functions_db_functions_getuserbyemailandpassword",
+      "target": "finalhash_db_functions_db_functions_checkhashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/finalhash/DB_Connect.php",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "www_finalhash_db_connect_php",
+      "target": "finalhash_db_connect_db_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "finalhash_db_connect_db_connect",
+      "target": "finalhash_db_connect_db_connect_construct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "finalhash_db_connect_db_connect",
+      "target": "finalhash_db_connect_db_connect_destruct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "finalhash_db_connect_db_connect",
+      "target": "finalhash_db_connect_db_connect_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "finalhash_db_connect_db_connect",
+      "target": "finalhash_db_connect_db_connect_close",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/finalhash/DB_Connect.php",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "www_www_finalhash_db_connect_php",
+      "target": "finalhash_db_connect_db_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/project_php/include/DB_Functions.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "www_project_php_include_db_functions_php",
+      "target": "include_db_functions_db_functions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_construct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_destruct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_random_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_forgotpassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_storeuser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_getuserbyemailandpassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_isuserexisted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_hashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions",
+      "target": "include_db_functions_db_functions_checkhashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "www_www_project_php_include_db_functions_php",
+      "target": "include_db_functions_db_functions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions_storeuser",
+      "target": "include_db_functions_db_functions_hashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Functions.php",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "include_db_functions_db_functions_getuserbyemailandpassword",
+      "target": "include_db_functions_db_functions_checkhashssha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/project_php/include/DB_Connect.php",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "www_project_php_include_db_connect_php",
+      "target": "include_db_connect_db_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "include_db_connect_db_connect",
+      "target": "include_db_connect_db_connect_construct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "include_db_connect_db_connect",
+      "target": "include_db_connect_db_connect_destruct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "include_db_connect_db_connect",
+      "target": "include_db_connect_db_connect_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "include_db_connect_db_connect",
+      "target": "include_db_connect_db_connect_close",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "www/www/project_php/include/DB_Connect.php",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "www_www_project_php_include_db_connect_php",
+      "target": "include_db_connect_db_connect",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

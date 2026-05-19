@@ -1,0 +1,76 @@
+{
+  "repo": "Secure_cloud",
+  "title": "Secure_cloud",
+  "purpose": "Multi-part secure file-sharing project that combines a Windows client, TCP listener services, a PHP/MySQL backend, and RSA-backed user key storage.",
+  "domains": [
+    "web app",
+    "education"
+  ],
+  "tech_stack": [
+    "C#",
+    ".NET",
+    "PHP",
+    "MySQL",
+    "SQL"
+  ],
+  "features": [
+    "Desktop client for browsing a local file and sending it to a remote TCP file receiver",
+    "Socket-based login server that validates user credentials against MySQL",
+    "PHP API endpoints for login, registration, password reset, and password change flows",
+    "User database schema that stores salted passwords, profile fields, and RSA public keys",
+    "Separate server components for login handling, file receiving, and public-key distribution"
+  ],
+  "pending_state": "unknown",
+  "pending_items": [],
+  "status_confidence": "medium",
+  "main_modules": [
+    "PCapplication",
+    "server",
+    "www"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "No explicit roadmap is documented; the repo reads like a capstone-style secure file-sharing system assembled from desktop, server, and PHP components.",
+  "likely_entrypoints": [
+    "PCapplication/PCapplication/filesharingclient.cs",
+    "server/tcpserver/tcpserver/logserver.cs",
+    "www/project_php/index.php",
+    "project_database.sql"
+  ],
+  "notable_docs": [
+    "README.md",
+    "project_database.sql",
+    "www/project_php/index.php",
+    "PCapplication/PCapplication/filesharingclient.cs"
+  ],
+  "graph_stats": "202 nodes \u00b7 207 edges \u00b7 37 communities (28 shown, 9 thin omitted)",
+  "god_nodes": [
+    "Form2",
+    "Form2",
+    "logserver",
+    "DB_Functions",
+    "DB_Functions"
+  ],
+  "llm_start_here": [
+    "README.md",
+    "www/project_php/index.php",
+    "PCapplication/PCapplication/filesharingclient.cs",
+    "server/tcpserver/tcpserver/logserver.cs"
+  ],
+  "suggested_next_steps": [
+    "Document the system architecture and startup order for the client, TCP services, PHP app, and database",
+    "Add a note about legacy sample data and environment assumptions before publishing the repo"
+  ],
+  "evidence_files": [
+    "PCapplication/PCapplication/filesharingclient.cs",
+    "server/tcpserver/tcpserver/logserver.cs",
+    "www/project_php/index.php",
+    "project_database.sql"
+  ]
+}
